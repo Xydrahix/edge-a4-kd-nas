@@ -1,4 +1,6 @@
 # Edge Computing - Assignment 4 (i230139, AI-B)
+
+**GitHub repo (source, trained checkpoints, ONNX models, results):** https://github.com/Xydrahix/edge-a4-kd-nas
 Q1: knowledge distillation on CIFAR-100 (ResNet-50 teacher -> MobileNetV2 / SqueezeNet / EfficientNet-Lite0). Q2: hardware-aware NAS on CIFAR-10 with measured ONNX-Runtime-CPU latency, size and peak memory.
 
 ## Layout
