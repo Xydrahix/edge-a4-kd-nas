@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+pandas
+matplotlib
+onnx>=1.15
+onnxruntime>=1.17
+optuna>=3.5
+psutil
+markdown
+tabulate

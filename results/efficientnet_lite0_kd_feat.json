@@ -1,0 +1,1 @@
+{"model": "efficientnet_lite0", "mode": "kd_feat", "params": 3499108, "top1": 64.37, "best_top1": 64.37, "epochs": 15, "T": 4.0, "alpha": 0.7, "train_time_s": 479.4628195762634}

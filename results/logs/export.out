@@ -1,0 +1,11 @@
+teacher {'onnx_mb': 94.739074, 'max_abs_diff': 1.9073486328125e-06, 'argmax_match': True}
+mobilenetv2_baseline {'onnx_mb': 9.381697, 'max_abs_diff': 2.86102294921875e-06, 'argmax_match': True}
+mobilenetv2_kd {'onnx_mb': 9.381697, 'max_abs_diff': 3.337860107421875e-06, 'argmax_match': True}
+mobilenetv2_kd_feat {'onnx_mb': 9.381697, 'max_abs_diff': 2.86102294921875e-06, 'argmax_match': True}
+squeezenet_baseline {'onnx_mb': 3.107156, 'max_abs_diff': 1.9073486328125e-06, 'argmax_match': True}
+squeezenet_kd {'onnx_mb': 3.107156, 'max_abs_diff': 2.86102294921875e-06, 'argmax_match': True}
+squeezenet_kd_feat {'onnx_mb': 3.107156, 'max_abs_diff': 3.814697265625e-06, 'argmax_match': True}
+efficientnet_lite0_baseline {'onnx_mb': 13.951961, 'max_abs_diff': 1.9073486328125e-06, 'argmax_match': True}
+efficientnet_lite0_kd {'onnx_mb': 13.951961, 'max_abs_diff': 2.86102294921875e-06, 'argmax_match': True}
+efficientnet_lite0_kd_feat {'onnx_mb': 13.951961, 'max_abs_diff': 2.86102294921875e-06, 'argmax_match': True}
+nas_final {'onnx_mb': 0.679834, 'max_abs_diff': 1.6689300537109375e-06, 'argmax_match': True}

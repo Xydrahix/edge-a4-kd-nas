@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/talha/Projects/edge-a4/make_report.py", line 70, in <module>
+    subprocess.run(["google-chrome-stable", "--headless=new", "--no-sandbox", "--disable-gpu", "--print-to-pdf=report.pdf", "--no-pdf-header-footer", "file://" + str(Path("report.html").resolve())], check=True, capture_output=True)
+  File "/home/talha/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['google-chrome-stable', '--headless=new', '--no-sandbox', '--disable-gpu', '--print-to-pdf=report.pdf', '--no-pdf-header-footer', 'file:///home/talha/Projects/edge-a4/report.html']' returned non-zero exit status 21.

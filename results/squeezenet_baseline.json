@@ -1,0 +1,1 @@
+{"model": "squeezenet", "mode": "baseline", "params": 776740, "top1": 56.23, "best_top1": 56.23, "epochs": 15, "T": 4.0, "alpha": 0.7, "train_time_s": 52.35063362121582}

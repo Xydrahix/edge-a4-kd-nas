@@ -1,0 +1,1 @@
+{"model": "resnet50_teacher", "params": 23705252, "top1": 76.44, "epochs": 30, "train_time_s": 1700.2978401184082}

@@ -1,0 +1,41 @@
+{
+ "best": {
+  "trial": 26,
+  "arch": {
+   "res": 32,
+   "stem": 32,
+   "width": 1.0,
+   "head": 512,
+   "drop": 0.1,
+   "d0": 2,
+   "k0": 3,
+   "e0": 2,
+   "d1": 2,
+   "k1": 5,
+   "e1": 2,
+   "d2": 3,
+   "k2": 5,
+   "e2": 3,
+   "d3": 1,
+   "k3": 5,
+   "e3": 2
+  },
+  "params": 167242,
+  "latency_ms": 0.34602699815877713,
+  "latency_p90_ms": 0.3892931039445102,
+  "size_mb": 0.674469,
+  "peak_mem_mb": 66.9375,
+  "extra_mem_mb": 17.6328125,
+  "status": "ok",
+  "val_acc": 71.44,
+  "score": 71.05589200736489
+ },
+ "constraints": {
+  "max_latency_ms": 0.5,
+  "max_size_mb": 1.0,
+  "max_extra_mem_mb": 18.0
+ },
+ "n_trials": 32,
+ "n_rejected": 12,
+ "search_time_s": 289.00749373435974
+}

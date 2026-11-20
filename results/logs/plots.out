@@ -1,0 +1,1 @@
+figures: ['accuracy_vs_cost.png', 'kd_accuracy.png', 'kd_training_curves.png', 'nas_final_curve.png', 'nas_search.png']
